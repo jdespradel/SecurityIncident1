@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I created an incident report based on one of the Google Cybersecurity Certificate example scenarios: 
+In this project, I created a security incident report based on one of the Google Cybersecurity Certificate example scenarios: 
 
 In this activity, you will take on the role of a cybersecurity analyst working for a company that hosts the cooking website, yummyrecipesforme.com. Visitors to the website experience a security issue when loading the main webpage. Your job is to investigate, identify, document, and recommend a solution to the security problem. 
 
